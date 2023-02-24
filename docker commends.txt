@@ -1,0 +1,104 @@
+clear
+    2  sudo apt update
+    3  sudo apt install docker.io
+    4  sudo apt update
+    5  sudo systemctl status docker
+    6  vi Dockerfile
+    7  sudo docker build -t apache222
+    8  sudo docker build -t apache222 .
+    9  vi Dockerfile
+   10  sudo docker build -t apache222 .
+   11  sudo docker run -dp 80:80 apache222
+   12  sudo docker images
+   13  sudo docker ps
+   14  sudo docker build -p 80 apache222
+   15  sudo docker build -dp 80 apache222
+   16  sudo docker build --name apache234 80 apache222
+   17  docker run --name apache234 -d -p 80:80 apache222
+   18  sudo docker run --name apache234 -d -p 80:80 apache222
+   19  docker ps
+   20  sudo docker ps
+   21  vi Dockerfile
+   22  ls
+   23  pw
+   24  pwd
+   25  vi project.py
+   26  vi Dockerfile
+   27  sudo docker build -t python1 .
+   28  vi python.py
+   29  vi Dockerfile
+   30  sudo docker build -t python1 .
+   31  vi Dockerfile
+   32  ls
+   33  vi Dockerfile
+   34  sudo docker build -t python1 .
+   35  vi Dockerfile
+   36  sudo docker build -t python1 .
+   37  vi Dockerfile
+   38  sudo docker build -t python1 .
+   39  vi Dockerfile
+   40  sudo docker build -t python1 .
+   41  vi Dockerfile
+   42  sudo docker build -t python1 .
+   43  vi Dockerfile
+   44  sudo docker build -t python1 .
+   45  path
+   46  mpath
+   47  pwd
+   48  vi Dockerfile
+   49  sudo docker build -t python1 .
+   50  mkdir simha
+   51  cd simha
+   52  app.py
+   53  vi app.py
+   54  vi requirements.txt
+   55  vi Dockerfile
+   56  vi docker-compose.yml
+   57  docker compose up
+   58  sudo docker compose up
+   59  sudo docker build -t python1
+   60  sudo docker build -t python1 .
+   61  sudo docker images
+   62  sudo docker run -d -p 8000 pyhton122
+   63  sudo docker run -d -p 8000 pyhton1
+   64  sudo docker run d2b1ebe16d56
+   65  vi docker-compose.yml
+   66  vi app.py
+   67  vi Dockerfile
+   68  vi app.py
+   69  vi docker-compose.yml
+   70  vi app.py
+   71  sudo docker run -d -p 8000 pyhton1
+   72  sudo docker build -t python1 .
+   73  sudo docker run -d -p 8000 pyhton1 .
+   74  docker run --help
+   75  docker images
+   76  sudo docker images
+   77  sudo docker run 9ee1d28e0638
+   78  sudo docker ps -a
+   79  sudo docker run 9ee1d28e0638
+   80  sudo docker compose
+   81  Docker Compose up
+   82  docker Compose up
+   83  docker compose up
+   84  docker-compose up -d
+   85  sudo apt  install docker-compose
+   86  docker compose up
+   87  docker-compose up -d
+   88  ls
+   89  vi docker-compose.yml
+   90  vi compose.yaml
+   91  rm docker-compose.yml
+   92  ls
+   93  docker-compose up -d
+   94  vi docker-compose.yaml
+   95  sudo docker-compose up -d
+   96  vi docker-compose.yaml
+   97  sudo docker-compose up -d
+   98  vi app.py
+   99  sudo docker-compose up -d
+  100  vi app.py
+  101  vi docker-compose.yaml
+  102  vi Dockerfile
+  103  ls
+  104  vi requirements.txt

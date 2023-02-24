@@ -1,0 +1,19 @@
+create one directory
+go to that directory
+
+create app.py  docker-compose.yaml  requirement.txt
+
+create Dockerfile
+
+build the image
+run the image
+ 
+
+$sudo docker compose up
+
+u can run on the broswer ip address and coresponding port
+
+if u got error install docker-compose
+
+$sudo docker compose up
+$ sudo docker-compose up -d
